@@ -1,4 +1,4 @@
-Hospital Management App
+# Hospital Management App
 
 Fully developed with Java in Netbeans, university project for programming paradigms
 
